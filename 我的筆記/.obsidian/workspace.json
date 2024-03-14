@@ -6,6 +6,7 @@
       {
         "id": "6b3802a1889aed92",
         "type": "tabs",
+        "dimension": 59.01639344262295,
         "children": [
           {
             "id": "25ee03563fbff143",
@@ -24,6 +25,7 @@
       {
         "id": "0efafb9d672dc3e5",
         "type": "tabs",
+        "dimension": 40.98360655737705,
         "children": [
           {
             "id": "288e212dae21d83d",
@@ -83,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "bebb86887b7dd36f",
@@ -147,12 +149,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,9 +168,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "288e212dae21d83d",
+  "active": "f08d0d26d9e9d5b7",
   "lastOpenFiles": [
     "1-日誌/2024-03-14.md",
+    "0-閃念筆記/2024-03-14.md",
     "Welcome.md",
     "_attachments",
     "4-生產力",
