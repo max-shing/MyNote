@@ -1,6 +1,6 @@
 # 如何編輯修改電子書的封面、內容、樣式及目錄
-## 段落第一行縮排兩個字
-請仔細看一下中間原始碼的內容
+- ## 段落第一行縮排兩個字
+- 請仔細看一下中間原始碼的內容
 每一個段落前面是由哪些HTML標籤跟CSS樣式所包起來的
 例如這本書內文的每個段落前後
 分別是由==﹤p class="calibre"﹥跟﹤/p==﹥包起來的
@@ -111,3 +111,10 @@ OPF檔存放了該電子書的metadata也就是詮釋資料
 得中文名稱的電子書檔案囉
 
 # 簡體字自動變繁體-中文字體簡繁處理工具
+
+中文字體簡繁處理工具:  https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbldVVHZQWURUZFJna3RGRUdtLWJLLW9uS096UXxBQ3Jtc0tremVNZ3pLZE41Z0ZQMzA1Q28tTkRwUW9ucFNMN3ktM2picGFuM0FndzhOSDFXdUMxOExqZ1hKMHdTOHcwbkxnNWFCbHRXaVhCWVAwanhGU25NTFRzUjB0cmppX1kwemota2tMT2J0ZGlPQWkyaGYycw&q=https%3A%2F%2Fgithub.com%2FGuiWonder%2FTCFontCreator&v=iej9d2ZVm_c
+
+使用教學 :  [讓簡體字自動變繁體、電子書一秒簡轉繁 💯 用免費的《中文字體簡繁處理工具》macOS版、Windows版製作簡轉繁中文字體的方法～ (youtube.com)](https://www.youtube.com/watch?v=iej9d2ZVm_c&list=PLkWHWHdEU4xRC_Xj0do1rLJaH8SC3TNQq&index=5)
+
+#### 免費繁簡中文字體
+下載  :   [多種電子書閱讀器可用的免費繁簡中文字體，看書時換個字體也可以換個心情！｜囉嗦阿蘇教室 (ruosuoasu-class.blogspot.com)](https://ruosuoasu-class.blogspot.com/2023/12/ebook-reader-fonts.html)
