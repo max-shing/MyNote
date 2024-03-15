@@ -1,6 +1,10 @@
 {
   "accentColor": "",
-  "cssTheme": "",
+  "cssTheme": "AnuPpuccin",
   "interfaceFontFamily": "Microsoft JhengHei",
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "extended-colorschemes",
+    "custom-rainbow-colors"
+  ]
 }
