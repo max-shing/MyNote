@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024-03-15_週五.md",
+                "file": "0-閃念筆記/Calibre 學習.md",
                 "mode": "source",
                 "source": false
               }
@@ -47,8 +47,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024-03-15_週五.md",
-                "mode": "source",
+                "file": "0-閃念筆記/Calibre 學習.md",
+                "mode": "preview",
                 "source": false
               }
             },
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2024-03-15_週五.md",
+                "file": "0-閃念筆記/Calibre 學習.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2024-03-15_週五.md",
+                "file": "0-閃念筆記/Calibre 學習.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2024-03-15_週五.md"
+                "file": "0-閃念筆記/Calibre 學習.md"
               }
             }
           },
@@ -194,8 +194,9 @@
   },
   "active": "4e3f8e78cc1d3e89",
   "lastOpenFiles": [
-    "0-閃念筆記/Calibre 學習.md",
+    "1-日誌/2024-03-14.md",
     "daily/2024-03-15_週五.md",
+    "0-閃念筆記/Calibre 學習.md",
     "daily/template.md",
     "daily/template1.md",
     "daily/template2.md",
@@ -207,7 +208,6 @@
     "daily/template.DM",
     "daily",
     "新增資料夾",
-    "1-日誌/2024-03-14.md",
     "obsidian.css",
     "0-閃念筆記/().md",
     "0-閃念筆記/[Releases.md",

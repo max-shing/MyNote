@@ -1,9 +1,9 @@
-- [[tasks]]
+- [[tasks-任務]]
  - [] 任務1
  - [] 任務2
 
-- [[daily habits]]
+- [[daily habits-日常習慣]]
 
-- [[tracking]]
+- [[tracking-追蹤]]
 
-- [[journal]]
+- [[journal-雜誌]]
