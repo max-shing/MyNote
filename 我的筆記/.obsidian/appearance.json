@@ -1,5 +1,6 @@
 {
   "accentColor": "",
-  "cssTheme": "AnuPpuccin",
-  "interfaceFontFamily": "Microsoft JhengHei"
+  "cssTheme": "Wasp",
+  "interfaceFontFamily": "Microsoft JhengHei",
+  "baseFontSizeAction": true
 }
