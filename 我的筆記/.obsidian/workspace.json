@@ -138,6 +138,14 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "16094d00af905321",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
           }
         ],
         "currentTab": 4
@@ -157,7 +165,8 @@
       "command-palette:開啟命令面板": false,
       "audio-recorder:開始/停止錄音": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "96e9bfd72865611c",
