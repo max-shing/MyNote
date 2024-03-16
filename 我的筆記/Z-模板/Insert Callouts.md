@@ -26,3 +26,4 @@ const calloutHead = `> [!${type}]${fold} ${title}\n`;
 
 tR += calloutHead + content
 -%>
+
