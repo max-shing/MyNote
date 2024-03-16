@@ -4,42 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3873a652b18fc962",
+        "id": "c1ae60afc9806734",
         "type": "tabs",
         "children": [
           {
-            "id": "7119e31a8ef59160",
+            "id": "d15bf872a619c94b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-模板/travel-template.md",
+                "file": "001-日誌/2024-03-17_週日.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
-            },
-            "group": "85317bea973a083a"
-          }
-        ]
-      },
-      {
-        "id": "57e4a2e709a29322",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "35d89d4cf17d5dfa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Z-模板/travel-template.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            },
-            "group": "85317bea973a083a"
+            }
           }
         ]
       }
@@ -70,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"cover\"]",
+                "query": "tag:daily",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -108,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-模板/travel-template.md",
+                "file": "001-日誌/2024-03-17_週日.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-模板/travel-template.md",
+                "file": "001-日誌/2024-03-17_週日.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-模板/travel-template.md"
+                "file": "001-日誌/2024-03-17_週日.md"
               }
             }
           },
@@ -216,8 +196,11 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "f08d0d26d9e9d5b7",
+  "active": "d15bf872a619c94b",
   "lastOpenFiles": [
+    "001-日誌/2024-03-16_週六.md",
+    "001-日誌/2024-03-17_週日.md",
+    "Z-模板/travel-template.md",
     "Z-模板/templater-quickadd-daily.md",
     "Z-模板/templater-note.md",
     "Z-模板/templater-daily.md",
@@ -228,7 +211,6 @@
     "Z-模板/templater-note(Templater格式的一般筆記模板).md",
     "030-Inbox",
     "0-閃念筆記/墾丁.md",
-    "Z-模板/travel-template.md",
     "0-閃念筆記/Insert Callouts DEMO.md",
     "0-閃念筆記/旅遊.md",
     "Z-模板/Books (Templater Basic Version).md",
@@ -251,8 +233,6 @@
     "Z-模板/Books (Templates Version).md",
     "Z-模板/Books (Templater Advanced Version).md",
     "041-書",
-    "0-閃念筆記/Calibre 學習.md",
-    "books/卡片盒筆記.md",
     "AnuPpuccin/Folder 08",
     "AnuPpuccin/Folder 01"
   ]

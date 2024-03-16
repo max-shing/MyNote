@@ -34,6 +34,66 @@
       },
       "openFile": false,
       "openFileInMode": "default"
+    },
+    {
+      "id": "12b43013-1fef-45d8-9644-fc62d673e4e8",
+      "name": "template-quickadd-note",
+      "type": "Template",
+      "command": false,
+      "templatePath": "Z-模板/template-quickadd-note.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{value:輸入筆記黨名}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "030-Inbox"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "source",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
+    },
+    {
+      "id": "1373a8a3-3f0a-4e1e-8f06-404c60467daa",
+      "name": "templater-quickadd-daily",
+      "type": "Template",
+      "command": false,
+      "templatePath": "Z-模板/templater-quickadd-daily.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{DATE:YYYY-MM-DD_ddd}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "001-日誌"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "source",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
     }
   ],
   "macros": [],

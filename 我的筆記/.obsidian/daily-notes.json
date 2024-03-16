@@ -1,5 +1,5 @@
 {
   "format": "YYYY-MM-DD_ddd",
-  "folder": "daily",
-  "template": "daily/template.md"
+  "folder": "001-日誌",
+  "template": "Z-模板/templater-daily"
 }

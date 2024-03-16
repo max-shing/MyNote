@@ -23,6 +23,6 @@
     "excalidraw-iframe-theme": "text",
     "cover(封面)": "text",
     "title": "text",
-    "created": "date"
+    "created": "datetime"
   }
 }
