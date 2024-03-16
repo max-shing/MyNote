@@ -7,5 +7,14 @@
       ],
       "key": "Enter"
     }
+  ],
+  "templater-obsidian:Z-模板/Insert Callouts.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "C"
+    }
   ]
 }

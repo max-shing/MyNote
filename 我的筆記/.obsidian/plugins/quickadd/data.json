@@ -1,5 +1,41 @@
 {
-  "choices": [],
+  "choices": [
+    {
+      "id": "91df6362-324e-4e80-9326-89a48759ec96",
+      "name": "Capture -log in a Daily ",
+      "type": "Capture",
+      "command": false,
+      "appendLink": false,
+      "captureTo": "/daily/{{date:YYYY-MM-DD_ddd}}",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": true,
+        "template": "daily/template.md"
+      },
+      "format": {
+        "enabled": false,
+        "format": ""
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    }
+  ],
   "macros": [],
   "inputPrompt": "multi-line",
   "devMode": false,

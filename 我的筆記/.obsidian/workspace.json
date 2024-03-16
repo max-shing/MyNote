@@ -8,21 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "96e9bfd72865611c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-日誌/2024-03-14.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "3743fd98b42bb7ec",
             "type": "leaf",
             "state": {
@@ -42,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024-03-16_週六.md",
+                "file": "AnuPpuccin/Folder 00/Typography.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -50,7 +35,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "d0ba32271b005558",
@@ -136,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2024-03-16_週六.md",
+                "file": "AnuPpuccin/Folder 00/Typography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2024-03-16_週六.md",
+                "file": "AnuPpuccin/Folder 00/Typography.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2024-03-16_週六.md"
+                "file": "AnuPpuccin/Folder 00/Typography.md"
               }
             }
           },
@@ -220,38 +205,40 @@
   },
   "active": "34d79dca055c7261",
   "lastOpenFiles": [
-    "Z-模板/Capture.md",
-    "daily/2024-03-16_週六.md",
-    "books/卡片盒筆記.md",
-    "31-電子維修/USB規格.md",
-    "1-日誌/2024-03-14.md",
-    "0-閃念筆記/Insert Callouts DEMO.md",
-    "0-閃念筆記/Calibre 學習.md",
-    "books",
-    "Z-模板/Books (Templater Advanced Version).md",
-    "Z-模板/Books (Templater Basic Version).md",
-    "Z-模板/Insert Callouts.md",
-    "Z-模板/Books (Templates Version).md",
+    "AnuPpuccin/Folder 00/Speech Bubbles.md",
+    "AnuPpuccin/Folder 00/MOC.md",
+    "AnuPpuccin/Folder 00/Codeblocks.md",
+    "AnuPpuccin/Folder 00/Checkboxes.md",
+    "AnuPpuccin/Folder 00/Callouts.md",
+    "AnuPpuccin/Folder 00/Typography.md",
     "daily/daily-all.md",
-    "daily/2024-03-15_週五.md",
+    "AnuPpuccin/Folder 08",
+    "AnuPpuccin/Folder 01",
+    "AnuPpuccin/Folder 06",
+    "AnuPpuccin/Folder 07",
+    "AnuPpuccin/Folder 00",
+    "AnuPpuccin/Folder 09",
+    "AnuPpuccin/Folder 12",
+    "AnuPpuccin/Folder 05",
+    "AnuPpuccin/Folder 02",
+    "AnuPpuccin/Folder 03",
     "daily/template.md",
-    "daily/template1.md",
     "daily/template2.md",
     "daily/template3.md",
     "daily/template4.md",
     "daily/template5.md",
-    "daily/新增 文字文件.txt",
-    "daily/新增資料夾",
-    "daily/template.DM",
-    "daily",
-    "新增資料夾",
-    "obsidian.css",
-    "0-閃念筆記/().md",
-    "0-閃念筆記/[Releases.md",
-    "41-電子書",
-    "0-閃念筆記/2024-03-14.md",
-    "Welcome.md",
-    "_attachments",
-    "4-生產力"
+    "0-閃念筆記/Insert Callouts DEMO.md",
+    "1-日誌/2024-03-14.md",
+    "0-閃念筆記/Calibre 學習.md",
+    "daily/2024-03-16_週六.md",
+    "daily/2024-03-15_週五.md",
+    "Z-模板/Capture.md",
+    "books/卡片盒筆記.md",
+    "31-電子維修/USB規格.md",
+    "Z-模板/Books (Templater Advanced Version).md",
+    "Z-模板/Books (Templater Basic Version).md",
+    "Z-模板/Insert Callouts.md",
+    "Z-模板/Books (Templates Version).md",
+    "daily/template1.md"
   ]
 }

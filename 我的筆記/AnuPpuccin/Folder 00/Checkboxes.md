@@ -1,0 +1,39 @@
+- [ ] unchecked
+- [x] checked
+- [>] Rescheduled
+- [<] scheduled
+- [!] important
+- [-] cancelled
+- [/] in progress
+- [?] question
+- [*] star
+- [n] note
+- [l] location
+- [i] information
+- [I] idea
+- [S] amount
+- [p] pro
+- [c] con
+- [b] bookmark
+- ["] quote
+
+```
+- [ ] unchecked
+- [x] checked
+- [>] Rescheduled
+- [<] scheduled
+- [!] important
+- [-] cancelled
+- [/] in progress
+- [?] question
+- [*] star
+- [n] note
+- [l] location
+- [i] information
+- [I] idea
+- [S] amount
+- [p] pro
+- [c] con
+- [b] bookmark
+- ["] quote
+```
