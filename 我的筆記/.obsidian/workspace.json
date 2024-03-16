@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-模板/templater-note.md",
+                "file": "042-Markdown/syntax.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-模板/templater-note.md",
+                "file": "042-Markdown/syntax.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-模板/templater-note.md",
+                "file": "042-Markdown/syntax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-模板/templater-note.md"
+                "file": "042-Markdown/syntax.md"
               }
             }
           },
@@ -211,8 +211,13 @@
   },
   "active": "385028c000a4eb6c",
   "lastOpenFiles": [
-    "001-日誌/2024-03-16_週六.md",
+    "042-Markdown/001.markdown-template.md",
+    "042-Markdown/syntax.md",
+    "042-Markdown/未確認 373242.crdownload",
     "Z-模板/templater-note.md",
+    "042-Markdown/未確認 977870.crdownload",
+    "042-Markdown",
+    "001-日誌/2024-03-16_週六.md",
     "030-Inbox/模板練習.md",
     "Z-模板/templater-quickadd-daily.md",
     "001-日誌/2024-03-17_週日.md",
@@ -242,11 +247,6 @@
     "Z-模板/template5.md",
     "Z-模板/template3.md",
     "Z-模板/template2.md",
-    "Z-模板/template.md",
-    "Z-模板/Insert Callouts.md",
-    "Z-模板/Books (Templates Version).md",
-    "041-書",
-    "AnuPpuccin/Folder 08",
-    "AnuPpuccin/Folder 01"
+    "Z-模板/template.md"
   ]
 }
