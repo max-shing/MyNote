@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ce8f5131c8294899",
+        "id": "7676f38371fbeeec",
         "type": "tabs",
         "children": [
           {
-            "id": "b70a834a9458210b",
+            "id": "70d3694b5875d292",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Z-模板/Capture.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "11-canvas(白板)/練習.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -86,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-模板/Capture.md",
+                "file": "11-canvas(白板)/練習.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-模板/Capture.md",
+                "file": "11-canvas(白板)/練習.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-模板/Capture.md"
+                "file": "11-canvas(白板)/練習.canvas"
               }
             }
           },
@@ -144,6 +146,18 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {}
+            }
+          },
+          {
+            "id": "3ddcb3f442317dcc",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
             }
           }
         ],
@@ -168,15 +182,23 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "b70a834a9458210b",
+  "active": "70d3694b5875d292",
   "lastOpenFiles": [
+    "11-canvas(白板)/練習.canvas",
+    "daily/2024-03-16_週六.md",
+    "11-canvas(白板)",
+    "2-3-canvas(白板)",
+    "2-1-2-canvas(白板)",
+    "21-2-canvas(白板)",
+    "1-2-canvas(白板)",
+    "新增資料夾",
     "daily/daily-all.md",
+    "Z-模板/Capture.md",
     "Z-模板/template5.md",
     "Z-模板/template3.md",
     "Z-模板/template2.md",
     "Z-模板/template.md",
     "Z-模板/Insert Callouts.md",
-    "Z-模板/Capture.md",
     "Z-模板/Books (Templates Version).md",
     "Z-模板/Books (Templater Basic Version).md",
     "Z-模板/Books (Templater Advanced Version).md",
@@ -193,18 +215,10 @@
     "AnuPpuccin/Folder 08",
     "AnuPpuccin/Folder 01",
     "AnuPpuccin/Folder 06",
-    "AnuPpuccin/Folder 07",
-    "AnuPpuccin/Folder 00",
-    "AnuPpuccin/Folder 09",
-    "AnuPpuccin/Folder 12",
-    "AnuPpuccin/Folder 05",
-    "AnuPpuccin/Folder 02",
     "daily/template.md",
     "daily/template2.md",
     "daily/template3.md",
     "daily/template4.md",
-    "daily/template5.md",
-    "0-閃念筆記/Insert Callouts DEMO.md",
-    "1-日誌/2024-03-14.md"
+    "daily/template5.md"
   ]
 }

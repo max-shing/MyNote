@@ -23,7 +23,8 @@
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
     "Z-模板/Capture.md",
-    "Z-模板/Insert Callouts.md"
+    "Z-模板/Insert Callouts.md",
+    ""
   ],
   "startup_templates": [
     ""
