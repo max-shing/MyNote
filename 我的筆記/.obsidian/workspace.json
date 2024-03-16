@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-閃念筆記/墾丁.md",
+                "file": "Z-模板/travel-template.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -33,8 +33,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-閃念筆記/墾丁.md",
-                "mode": "preview",
+                "file": "Z-模板/travel-template.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-閃念筆記/墾丁.md",
+                "file": "Z-模板/travel-template.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-閃念筆記/墾丁.md",
+                "file": "Z-模板/travel-template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-閃念筆記/墾丁.md"
+                "file": "Z-模板/travel-template.md"
               }
             }
           },
@@ -219,9 +219,9 @@
   },
   "active": "7119e31a8ef59160",
   "lastOpenFiles": [
-    "0-閃念筆記/Insert Callouts DEMO.md",
-    "Z-模板/travel-template.md",
     "0-閃念筆記/墾丁.md",
+    "Z-模板/travel-template.md",
+    "0-閃念筆記/Insert Callouts DEMO.md",
     "0-閃念筆記/旅遊.md",
     "Z-模板/Books (Templater Basic Version).md",
     "41-書/未命名.md",

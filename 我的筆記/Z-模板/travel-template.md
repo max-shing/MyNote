@@ -1,7 +1,10 @@
 ---
-title: {{tp_title}}
-created: {{tp_today:f="YYYY-MM-DD HH:mm"}}
-tags: travel
+title:
+  "{ tp_title }": 
+created:
+  "{ tp_today:f=\"YYYY-MM-DD HH:mm\" }": 
+tags:
+  - tags、
 ---
 # {{tp_today:f=YYYY-MM-DD_ddd}} 旅遊紀錄
 

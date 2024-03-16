@@ -21,6 +21,8 @@
     "excalidraw-css": "text",
     "excalidraw-autoexport": "checkbox",
     "excalidraw-iframe-theme": "text",
-    "cover(封面)": "text"
+    "cover(封面)": "text",
+    "title": "text",
+    "created": "date"
   }
 }
