@@ -16,5 +16,14 @@
       ],
       "key": "C"
     }
+  ],
+  "properties:open": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "A"
+    }
   ]
 }

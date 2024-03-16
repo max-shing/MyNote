@@ -4,16 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "ae38cc5eb87f1eb3",
+        "id": "3873a652b18fc962",
         "type": "tabs",
         "children": [
           {
-            "id": "c12ad4e2ef3e028f",
+            "id": "7119e31a8ef59160",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
+              "type": "markdown",
+              "state": {
+                "file": "0-閃念筆記/太魯閣.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            },
+            "group": "85317bea973a083a"
+          }
+        ]
+      },
+      {
+        "id": "57e4a2e709a29322",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35d89d4cf17d5dfa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-閃念筆記/太魯閣.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            },
+            "group": "85317bea973a083a"
           }
         ]
       }
@@ -44,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "*",
+                "query": "[\"cover\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,13 +87,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "bebb86887b7dd36f",
@@ -76,6 +100,7 @@
       {
         "id": "336501fa2812da62",
         "type": "tabs",
+        "dimension": 40.476190476190474,
         "children": [
           {
             "id": "974a5e7383ac25ce",
@@ -83,7 +108,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
+                "file": "0-閃念筆記/太魯閣.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -99,19 +125,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "0-閃念筆記/太魯閣.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "671832ae369dce45",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
               }
             }
           },
@@ -120,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "0-閃念筆記/太魯閣.md"
+              }
             }
           },
           {
@@ -138,7 +156,15 @@
               "type": "DICE_ROLLER_VIEW",
               "state": {}
             }
-          },
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "a88120b8ab4a5ba0",
+        "type": "tabs",
+        "dimension": 29.761904761904763,
+        "children": [
           {
             "id": "3ddcb3f442317dcc",
             "type": "leaf",
@@ -151,12 +177,29 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
+      },
+      {
+        "id": "17976d2cafbe8c3c",
+        "type": "tabs",
+        "dimension": 29.761904761904763,
+        "children": [
+          {
+            "id": "671832ae369dce45",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 228
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,26 +207,32 @@
       "graph:查看關聯圖": false,
       "canvas:建立新畫布": false,
       "daily-notes:開啟今天的每日筆記": false,
-      "templates:插入模板": false,
       "command-palette:開啟命令面板": false,
       "audio-recorder:開始/停止錄音": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
-      "obsidian-projects:Open projects": false
+      "obsidian-projects:Open projects": false,
+      "workspaces:管理工作區配置": false
     }
   },
-  "active": "c12ad4e2ef3e028f",
+  "active": "35d89d4cf17d5dfa",
   "lastOpenFiles": [
-    "11-canvas(白板)/練習.canvas",
+    "0-閃念筆記/Insert Callouts DEMO.md",
+    "0-閃念筆記/太魯閣.md",
+    "0-閃念筆記/旅遊.md",
+    "Z-模板/travel-template.md",
+    "Z-模板/Books (Templater Basic Version).md",
+    "41-書/未命名.md",
     "daily/2024-03-16_週六.md",
+    "daily/daily-all.md",
+    "11-canvas(白板)/練習.canvas",
     "11-canvas(白板)",
     "2-3-canvas(白板)",
     "2-1-2-canvas(白板)",
     "21-2-canvas(白板)",
     "1-2-canvas(白板)",
     "新增資料夾",
-    "daily/daily-all.md",
     "Z-模板/Capture.md",
     "Z-模板/template5.md",
     "Z-模板/template3.md",
@@ -191,7 +240,6 @@
     "Z-模板/template.md",
     "Z-模板/Insert Callouts.md",
     "Z-模板/Books (Templates Version).md",
-    "Z-模板/Books (Templater Basic Version).md",
     "Z-模板/Books (Templater Advanced Version).md",
     "41-書",
     "0-閃念筆記/Calibre 學習.md",
@@ -206,10 +254,6 @@
     "AnuPpuccin/Folder 08",
     "AnuPpuccin/Folder 01",
     "AnuPpuccin/Folder 06",
-    "daily/template.md",
-    "daily/template2.md",
-    "daily/template3.md",
-    "daily/template4.md",
-    "daily/template5.md"
+    "daily/template.md"
   ]
 }
