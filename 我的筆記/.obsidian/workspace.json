@@ -4,56 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1d818066238a3557",
+        "id": "ce8f5131c8294899",
         "type": "tabs",
         "children": [
           {
-            "id": "3743fd98b42bb7ec",
+            "id": "b70a834a9458210b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-模板/Insert Callouts.md",
+                "file": "Z-模板/Capture.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            },
-            "group": "2a93a85b89ceaf88"
-          },
-          {
-            "id": "34d79dca055c7261",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Z-模板/Books (Templater Basic Version).md",
-                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "d0ba32271b005558",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a37432acef96371e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Z-模板/Insert Callouts.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            },
-            "group": "2a93a85b89ceaf88"
           }
         ]
       }
@@ -121,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-模板/Books (Templater Basic Version).md",
+                "file": "Z-模板/Capture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-模板/Books (Templater Basic Version).md",
+                "file": "Z-模板/Capture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-模板/Books (Templater Basic Version).md"
+                "file": "Z-模板/Capture.md"
               }
             }
           },
@@ -203,24 +168,28 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "34d79dca055c7261",
+  "active": "b70a834a9458210b",
   "lastOpenFiles": [
+    "daily/daily-all.md",
+    "Z-模板/template5.md",
+    "Z-模板/template3.md",
+    "Z-模板/template2.md",
+    "Z-模板/template.md",
+    "Z-模板/Insert Callouts.md",
+    "Z-模板/Capture.md",
+    "Z-模板/Books (Templates Version).md",
+    "Z-模板/Books (Templater Basic Version).md",
     "Z-模板/Books (Templater Advanced Version).md",
     "41-書",
     "0-閃念筆記/Calibre 學習.md",
     "books/卡片盒筆記.md",
     "AnuPpuccin/Folder 00/Typography.md",
     "Z-模板/template4.md",
-    "Z-模板/template3.md",
-    "Z-模板/template2.md",
-    "Z-模板/template.md",
-    "Z-模板/template5.md",
     "AnuPpuccin/Folder 00/Speech Bubbles.md",
     "AnuPpuccin/Folder 00/MOC.md",
     "AnuPpuccin/Folder 00/Codeblocks.md",
     "AnuPpuccin/Folder 00/Checkboxes.md",
     "AnuPpuccin/Folder 00/Callouts.md",
-    "daily/daily-all.md",
     "AnuPpuccin/Folder 08",
     "AnuPpuccin/Folder 01",
     "AnuPpuccin/Folder 06",
@@ -236,10 +205,6 @@
     "daily/template4.md",
     "daily/template5.md",
     "0-閃念筆記/Insert Callouts DEMO.md",
-    "1-日誌/2024-03-14.md",
-    "daily/2024-03-16_週六.md",
-    "daily/2024-03-15_週五.md",
-    "Z-模板/Capture.md",
-    "31-電子維修/USB規格.md"
+    "1-日誌/2024-03-14.md"
   ]
 }

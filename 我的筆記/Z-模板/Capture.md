@@ -1,5 +1,5 @@
 <%*
-const file = tp.file.find_tfile(tp.date.now("YYYY-MM-DD"))
+const file = tp.file.find_tfile(tp.date.now("YYYY-MM-DD_ddd"))
 if (file) {
 	const loggedItem = await tp.system.prompt("What's Up?")
 	const time = tp.date.now("HH:mm")

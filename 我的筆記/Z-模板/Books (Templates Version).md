@@ -12,24 +12,24 @@ date_creation: {{date:}}
 date_start: 
 date_finish:
 ---
-## 3 sentences to describe the book
+## 3 sentences to describe the book(簡介)
 1. 
 2. 
 3. 
 
-## 5 take aways
+## 5 take aways(帶走)
 1. 
 2. 
 3. 
 4. 
 5. 
 
-## Review
+## Review(審查)
 
 
 
-## Related
+## Related(有關的)
 
 
 
-## Reference
+## Reference(參考)
