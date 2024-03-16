@@ -4,6 +4,8 @@
   "interfaceFontFamily": "Microsoft JhengHei",
   "baseFontSizeAction": true,
   "enabledCssSnippets": [
-    "extended-colorschemes"
-  ]
+    "extended-colorschemes",
+    "custom-rainbow-colors"
+  ],
+  "theme": "system"
 }

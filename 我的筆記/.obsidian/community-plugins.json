@@ -13,5 +13,7 @@
   "dataview",
   "obsidian-pandoc",
   "obsidian-excalidraw-plugin",
-  "obsidian-enhancing-mindmap"
+  "obsidian-enhancing-mindmap",
+  "obsidian-hider",
+  "templater-obsidian"
 ]
