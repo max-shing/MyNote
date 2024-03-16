@@ -20,6 +20,41 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "3743fd98b42bb7ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Z-模板/Insert Callouts.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            },
+            "group": "2a93a85b89ceaf88"
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "d0ba32271b005558",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a37432acef96371e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Z-模板/Insert Callouts.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            },
+            "group": "2a93a85b89ceaf88"
           }
         ]
       }
@@ -87,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-日誌/2024-03-14.md",
+                "file": "Z-模板/Insert Callouts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-日誌/2024-03-14.md",
+                "file": "Z-模板/Insert Callouts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-日誌/2024-03-14.md"
+                "file": "Z-模板/Insert Callouts.md"
               }
             }
           },
@@ -170,10 +205,15 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "96e9bfd72865611c",
+  "active": "a37432acef96371e",
   "lastOpenFiles": [
-    "0-閃念筆記/Calibre 學習.md",
+    "Z-模板/Capture.md",
+    "Z-模板/Books (Templates Version).md",
+    "Z-模板/Books (Templater Basic Version).md",
+    "Z-模板/Books (Templater Advanced Version).md",
     "1-日誌/2024-03-14.md",
+    "Z-模板/Insert Callouts.md",
+    "0-閃念筆記/Calibre 學習.md",
     "31-電子維修/USB規格.md",
     "daily/daily-all.md",
     "daily/2024-03-15_週五.md",
