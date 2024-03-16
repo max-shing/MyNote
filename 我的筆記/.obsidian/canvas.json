@@ -1,6 +1,6 @@
 {
   "snapToObjects": true,
-  "snapToGrid": false,
+  "snapToGrid": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "11-canvas(白板)"
 }

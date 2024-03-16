@@ -1,7 +1,12 @@
 {
 	"nodes":[
-		{"id":"83174d6c4cc40868","x":-452,"y":-148,"width":250,"height":60,"type":"text","text":""},
-		{"id":"4f94d9bc8e53b97e","x":-349,"y":-228,"width":250,"height":60,"type":"text","text":""}
+		{"id":"0eccbac3a72485af","x":-280,"y":160,"width":529,"height":363,"type":"group","label":"demo\\"},
+		{"id":"b09515f09b500f80","x":-529,"y":-381,"width":287,"height":224,"color":"2","type":"file","file":"daily/2024-03-16_週六.md"},
+		{"id":"4f94d9bc8e53b97e","x":-260,"y":438,"width":250,"height":60,"type":"text","text":"dataview"},
+		{"id":"fd69dffa27fc3d1b","x":-61,"y":180,"width":290,"height":258,"color":"#57ff62","type":"link","url":"https://www.youtube.com/watch?v=NbrQXOGphwI&t=22s"},
+		{"id":"5b3d501f2822499b","x":-760,"y":127,"width":400,"height":341,"color":"6","type":"file","file":"0-閃念筆記/Calibre 學習.md"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"8535d7b33fc78424","fromNode":"4f94d9bc8e53b97e","fromSide":"left","toNode":"5b3d501f2822499b","toSide":"top","fromEnd":"arrow"}
+	]
 }
