@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001-日誌/2024-03-16_週六.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "385028c000a4eb6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "042-Markdown/syntax.md",
+                "file": "0-閃念筆記/Calibre 學習.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\" <% tp.file.title %> \"",
+                "query": "tag:#提示",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,14 +59,15 @@
             }
           },
           {
-            "id": "904dfa5e10e110a7",
+            "id": "ae2d8a0e400c9a08",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +80,7 @@
       {
         "id": "336501fa2812da62",
         "type": "tabs",
-        "dimension": 40.476190476190474,
+        "dimension": 57.62711864406779,
         "children": [
           {
             "id": "974a5e7383ac25ce",
@@ -101,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "042-Markdown/syntax.md",
+                "file": "0-閃念筆記/Calibre 學習.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "042-Markdown/syntax.md",
+                "file": "0-閃念筆記/Calibre 學習.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "042-Markdown/syntax.md"
+                "file": "0-閃念筆記/Calibre 學習.md"
               }
             }
           },
@@ -149,14 +136,25 @@
               "type": "DICE_ROLLER_VIEW",
               "state": {}
             }
+          },
+          {
+            "id": "54e9a723736c737b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "a88120b8ab4a5ba0",
         "type": "tabs",
-        "dimension": 29.761904761904763,
+        "dimension": 42.3728813559322,
         "children": [
           {
             "id": "3ddcb3f442317dcc",
@@ -167,24 +165,6 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "17976d2cafbe8c3c",
-        "type": "tabs",
-        "dimension": 29.761904761904763,
-        "children": [
-          {
-            "id": "671832ae369dce45",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
               }
             }
           }
@@ -209,15 +189,15 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "385028c000a4eb6c",
+  "active": "1d8c4330adbb07be",
   "lastOpenFiles": [
-    "042-Markdown/001.markdown-template.md",
+    "001-日誌/2024-03-16_週六.md",
     "042-Markdown/syntax.md",
+    "042-Markdown/001.markdown-template.md",
     "042-Markdown/未確認 373242.crdownload",
     "Z-模板/templater-note.md",
     "042-Markdown/未確認 977870.crdownload",
     "042-Markdown",
-    "001-日誌/2024-03-16_週六.md",
     "030-Inbox/模板練習.md",
     "Z-模板/templater-quickadd-daily.md",
     "001-日誌/2024-03-17_週日.md",
