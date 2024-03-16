@@ -3,6 +3,10 @@
   "templates_folder": "Z-模板",
   "templates_pairs": [
     [
+      "{{天氣_高雄市}}",
+      "curl -H \"Accept-Language: zh-TW\" \"wttr.in/Ko-hiôngi?format=3"
+    ],
+    [
       "",
       ""
     ]

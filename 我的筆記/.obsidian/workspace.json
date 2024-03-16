@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-閃念筆記/太魯閣.md",
+                "file": "0-閃念筆記/墾丁.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-閃念筆記/太魯閣.md",
+                "file": "0-閃念筆記/墾丁.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-閃念筆記/太魯閣.md",
+                "file": "0-閃念筆記/墾丁.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-閃念筆記/太魯閣.md",
+                "file": "0-閃念筆記/墾丁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-閃念筆記/太魯閣.md"
+                "file": "0-閃念筆記/墾丁.md"
               }
             }
           },
@@ -213,15 +213,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "obsidian-projects:Open projects": false,
-      "workspaces:管理工作區配置": false
+      "workspaces:管理工作區配置": false,
+      "templates:插入模板": false
     }
   },
-  "active": "35d89d4cf17d5dfa",
+  "active": "7119e31a8ef59160",
   "lastOpenFiles": [
     "0-閃念筆記/Insert Callouts DEMO.md",
-    "0-閃念筆記/太魯閣.md",
-    "0-閃念筆記/旅遊.md",
     "Z-模板/travel-template.md",
+    "0-閃念筆記/墾丁.md",
+    "0-閃念筆記/旅遊.md",
     "Z-模板/Books (Templater Basic Version).md",
     "41-書/未命名.md",
     "daily/2024-03-16_週六.md",
