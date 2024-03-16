@@ -1,12 +1,8 @@
 {
 	"nodes":[
-		{"id":"0eccbac3a72485af","x":-280,"y":160,"width":529,"height":363,"type":"group","label":"demo\\"},
 		{"id":"b09515f09b500f80","x":-529,"y":-381,"width":287,"height":224,"color":"2","type":"file","file":"daily/2024-03-16_週六.md"},
-		{"id":"4f94d9bc8e53b97e","x":-260,"y":438,"width":250,"height":60,"type":"text","text":"dataview"},
-		{"id":"fd69dffa27fc3d1b","x":-61,"y":180,"width":290,"height":258,"color":"#57ff62","type":"link","url":"https://www.youtube.com/watch?v=NbrQXOGphwI&t=22s"},
-		{"id":"5b3d501f2822499b","x":-760,"y":127,"width":400,"height":341,"color":"6","type":"file","file":"0-閃念筆記/Calibre 學習.md"}
+		{"id":"fd69dffa27fc3d1b","x":-60,"y":127,"width":380,"height":341,"color":"#57ff62","type":"link","url":"https://www.youtube.com/watch?v=NbrQXOGphwI&t=22s"},
+		{"id":"d0e244309e83cb7e","x":-700,"y":200,"width":640,"height":360,"type":"link","url":"https://www.youtube.com/watch?v=eHI-Szjpafk&list=RDCMUC1CXs5dtO8_Zrsm-48saJfg&start_radio=1&rv=eHI-Szjpafk"}
 	],
-	"edges":[
-		{"id":"8535d7b33fc78424","fromNode":"4f94d9bc8e53b97e","fromSide":"left","toNode":"5b3d501f2822499b","toSide":"top","fromEnd":"arrow"}
-	]
+	"edges":[]
 }

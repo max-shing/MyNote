@@ -4,22 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7676f38371fbeeec",
+        "id": "ae38cc5eb87f1eb3",
         "type": "tabs",
         "children": [
           {
-            "id": "70d3694b5875d292",
+            "id": "c12ad4e2ef3e028f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "11-canvas(白板)/練習.canvas",
-                "viewState": {
-                  "x": -159.79542937478885,
-                  "y": 286.5951133784398,
-                  "zoom": 1
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,11 +62,12 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "bebb86887b7dd36f",
@@ -89,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11-canvas(白板)/練習.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "11-canvas(白板)/練習.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "11-canvas(白板)/練習.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -183,7 +173,7 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "70d3694b5875d292",
+  "active": "c12ad4e2ef3e028f",
   "lastOpenFiles": [
     "11-canvas(白板)/練習.canvas",
     "daily/2024-03-16_週六.md",
