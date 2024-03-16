@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "c1ae60afc9806734",
+        "id": "fe70539025e3c262",
         "type": "tabs",
         "children": [
           {
-            "id": "d15bf872a619c94b",
+            "id": "47360eb7547d7f8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001-日誌/2024-03-17_週日.md",
+                "file": "001-日誌/2024-03-16_週六.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "385028c000a4eb6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Z-模板/templater-note.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:daily",
+                "query": "\" <% tp.file.title %> \"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,8 +80,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -88,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001-日誌/2024-03-17_週日.md",
+                "file": "Z-模板/templater-note.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001-日誌/2024-03-17_週日.md",
+                "file": "Z-模板/templater-note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "001-日誌/2024-03-17_週日.md"
+                "file": "Z-模板/templater-note.md"
               }
             }
           },
@@ -196,13 +209,14 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "d15bf872a619c94b",
+  "active": "385028c000a4eb6c",
   "lastOpenFiles": [
     "001-日誌/2024-03-16_週六.md",
+    "Z-模板/templater-note.md",
+    "030-Inbox/模板練習.md",
+    "Z-模板/templater-quickadd-daily.md",
     "001-日誌/2024-03-17_週日.md",
     "Z-模板/travel-template.md",
-    "Z-模板/templater-quickadd-daily.md",
-    "Z-模板/templater-note.md",
     "Z-模板/templater-daily.md",
     "Z-模板/template-quickadd-note.md",
     "Z-模板/templater-daily(Templater格式的每日筆記模板).md",
@@ -231,7 +245,6 @@
     "Z-模板/template.md",
     "Z-模板/Insert Callouts.md",
     "Z-模板/Books (Templates Version).md",
-    "Z-模板/Books (Templater Advanced Version).md",
     "041-書",
     "AnuPpuccin/Folder 08",
     "AnuPpuccin/Folder 01"

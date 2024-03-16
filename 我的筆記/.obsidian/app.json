@@ -3,5 +3,7 @@
   "newFileFolderPath": "030-Inbox",
   "attachmentFolderPath": "./attachments",
   "showLineNumber": true,
-  "vimMode": false
+  "vimMode": false,
+  "newLinkFormat": "relative",
+  "showUnsupportedFiles": true
 }
