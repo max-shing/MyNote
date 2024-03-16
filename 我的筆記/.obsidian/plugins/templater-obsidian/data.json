@@ -31,8 +31,8 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "Z-模板",
-      "template": ""
+      "folder": "030-Inbox",
+      "template": "Z-模板/templater-note.md"
     }
   ],
   "syntax_highlighting": true,
