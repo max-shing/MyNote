@@ -1,16 +1,16 @@
 ---
 <%*
 let title = tp.file.title;
-if (title.startsWith("Untitled")) {
- title = await tp.system.prompt("Enter the title of the book");
+if (title.startsWith("未命名")) {
+ title = await tp.system.prompt("E輸入書名");
  if(!title) return;
 }
 if (title == "") {
-title = "Untitled";
+title = "未命名";
 } else {
 await tp.file.rename(title);
 }
-await tp.file.move("/books/" + title)
+await tp.file.move("/41-書/" + title)
 -%>
 type: books
 title: "[[<% title %>]]"
@@ -25,27 +25,27 @@ date_creation: <% tp.file.creation_date("YYYY-MM-DD") %>
 date_start: 
 date_finish:
 ---
-## 3 sentences to describe the book
+## 3 sentences to describe the book(簡介)
 1. <% tp.file.cursor() %>
 2. 
 3. 
 
-## 5 take aways
+## 5 take aways(帶走)
 1. 
 2. 
 3. 
 4. 
 5. 
 
-## Review
+## Review(審查)
 
 
 
-## Related
+## Related(有關的)
 
 
 
-## Reference
+## Reference(參考)
 
 
 

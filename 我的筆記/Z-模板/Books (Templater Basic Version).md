@@ -1,6 +1,6 @@
 ---
-type: books
-title: "[[<% tp.file.title %>]]"
+type(類型): books
+title(標題): "[[<% tp.file.title %>]]"
 cover: 
 author:
   - '[[<% tp.system.prompt("请输入作者")%>]]'
