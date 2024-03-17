@@ -4,44 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "13fee766e37867e3",
-        "type": "split",
+        "id": "fb948b2ea22b979c",
+        "type": "tabs",
         "children": [
           {
-            "id": "fe70539025e3c262",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "47360eb7547d7f8d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "001-日誌/2024-03-17_週日.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          },
-          {
-            "id": "173088eb8c528b2e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "368788ab1fce8f68",
-                "type": "leaf",
-                "state": {
-                  "type": "calibre-view",
-                  "state": {}
-                }
-              }
-            ]
+            "id": "db30d17a54902521",
+            "type": "leaf",
+            "state": {
+              "type": "calibre-view",
+              "state": {}
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#提示",
+                "query": "path:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -109,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001-日誌/2024-03-17_週日.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001-日誌/2024-03-17_週日.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +108,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "001-日誌/2024-03-17_週日.md"
-              }
+              "state": {}
             }
           },
           {
@@ -211,10 +180,11 @@
       "obsidian-calibre-plugin:Calibre": false
     }
   },
-  "active": "368788ab1fce8f68",
+  "active": "db30d17a54902521",
   "lastOpenFiles": [
-    "001-日誌/2024-03-16_週六.md",
     "0-閃念筆記/Calibre 學習.md",
+    "001-日誌/2024-03-17_週日.md",
+    "001-日誌/2024-03-16_週六.md",
     "042-Markdown/syntax.md",
     "042-Markdown/001.markdown-template.md",
     "042-Markdown/未確認 373242.crdownload",
@@ -223,7 +193,6 @@
     "042-Markdown",
     "030-Inbox/模板練習.md",
     "Z-模板/templater-quickadd-daily.md",
-    "001-日誌/2024-03-17_週日.md",
     "Z-模板/travel-template.md",
     "Z-模板/templater-daily.md",
     "Z-模板/template-quickadd-note.md",
