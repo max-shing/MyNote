@@ -4,23 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "fe70539025e3c262",
-        "type": "tabs",
+        "id": "13fee766e37867e3",
+        "type": "split",
         "children": [
           {
-            "id": "47360eb7547d7f8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-閃念筆記/Calibre 學習.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+            "id": "fe70539025e3c262",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "47360eb7547d7f8d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "001-日誌/2024-03-17_週日.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "173088eb8c528b2e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "368788ab1fce8f68",
+                "type": "leaf",
+                "state": {
+                  "type": "calibre-view",
+                  "state": {}
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -88,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-閃念筆記/Calibre 學習.md",
+                "file": "001-日誌/2024-03-17_週日.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-閃念筆記/Calibre 學習.md",
+                "file": "001-日誌/2024-03-17_週日.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-閃念筆記/Calibre 學習.md"
+                "file": "001-日誌/2024-03-17_週日.md"
               }
             }
           },
@@ -149,7 +170,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "a88120b8ab4a5ba0",
@@ -186,12 +207,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "obsidian-projects:Open projects": false,
-      "workspaces:管理工作區配置": false
+      "workspaces:管理工作區配置": false,
+      "obsidian-calibre-plugin:Calibre": false
     }
   },
-  "active": "1d8c4330adbb07be",
+  "active": "368788ab1fce8f68",
   "lastOpenFiles": [
     "001-日誌/2024-03-16_週六.md",
+    "0-閃念筆記/Calibre 學習.md",
     "042-Markdown/syntax.md",
     "042-Markdown/001.markdown-template.md",
     "042-Markdown/未確認 373242.crdownload",
@@ -226,7 +249,6 @@
     "Z-模板/Capture.md",
     "Z-模板/template5.md",
     "Z-模板/template3.md",
-    "Z-模板/template2.md",
-    "Z-模板/template.md"
+    "Z-模板/template2.md"
   ]
 }
