@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "fb948b2ea22b979c",
+        "id": "785feeabb4e0635f",
         "type": "tabs",
         "children": [
           {
-            "id": "db30d17a54902521",
+            "id": "7563851699857b26",
             "type": "leaf",
             "state": {
-              "type": "calibre-view",
+              "type": "empty",
               "state": {}
             }
           }
@@ -162,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228
+    "width": 228,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,7 +181,7 @@
       "obsidian-calibre-plugin:Calibre": false
     }
   },
-  "active": "db30d17a54902521",
+  "active": "7563851699857b26",
   "lastOpenFiles": [
     "0-閃念筆記/Calibre 學習.md",
     "001-日誌/2024-03-17_週日.md",
