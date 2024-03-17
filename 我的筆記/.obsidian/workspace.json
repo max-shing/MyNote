@@ -18,11 +18,11 @@
         ]
       },
       {
-        "id": "8c9ccc3b0688610d",
+        "id": "7d817a9a5da9ceeb",
         "type": "tabs",
         "children": [
           {
-            "id": "ff6cd98f24955a85",
+            "id": "2ebc6dfe390784d4",
             "type": "leaf",
             "state": {
               "type": "calibre-view",
@@ -195,7 +195,7 @@
       "obsidian-calibre-plugin:Calibre": false
     }
   },
-  "active": "ff6cd98f24955a85",
+  "active": "2ebc6dfe390784d4",
   "lastOpenFiles": [
     "0-閃念筆記/Calibre 學習.md",
     "001-日誌/2024-03-17_週日.md",
