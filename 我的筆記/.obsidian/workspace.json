@@ -177,8 +177,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "obsidian-projects:Open projects": false,
-      "workspaces:管理工作區配置": false,
-      "obsidian-calibre-plugin:Calibre": false
+      "workspaces:管理工作區配置": false
     }
   },
   "active": "2ebc6dfe390784d4",
